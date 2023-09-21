@@ -130,6 +130,8 @@ console.log(Object.keys(obj6))
 
 // Object.value()....
 
+// Return to values in object 
+
 let obj7 = {
     name : "surenthar",
     age :25,
